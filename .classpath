@@ -10,6 +10,7 @@
 	<classpathentry kind="src" path="factory-pattern"/>
 	<classpathentry kind="src" path="factory-pattern-hierarchies"/>
 	<classpathentry kind="src" path="factory-pattern-full"/>
+	<classpathentry kind="src" path="abstract-factory-pattern"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="module" value="true"/>
